@@ -1,6 +1,6 @@
-# EclipseUI
+# Roblox UI Library
 
-A simple roblox ui library.
+A simple UI library for Roblox, designed for creating custom UI elements easily.
 
 ## 📌 Features
 - Create customizable UI windows
@@ -12,4 +12,4 @@ A simple roblox ui library.
 2. Place it in `ReplicatedStorage`
 3. Require it in your script:
    ```lua
-   local UILibrary = require(game.ReplicatedStorage.UILibrary)
+   local EclipseUI =
