@@ -1,5 +1,5 @@
--- Load the DrRay library from the GitHub repository Library
-local EclipseUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+-- Load the EclipseUI library from the GitHub repository Library
+local EclipseUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/elfcodes808/EclipseUI/refs/heads/main/EclipseUI.lua"))()
 
 -- Create a new window and set its title and theme
 local window = EclipseUI:Load("DrRay!", "Default")
