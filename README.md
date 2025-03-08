@@ -12,4 +12,4 @@ A simple UI library for Roblox, designed for creating custom UI elements easily.
 2. Place it in `ReplicatedStorage`
 3. Require it in your script:
    ```lua
-   local EclipseUI = loadstring(game:HttpGet("blank"))()
+   local EclipseUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/elfcodes808/EclipseUI/refs/heads/main/EclipseUI.lua"))()
